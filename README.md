@@ -1,5 +1,5 @@
 # WEB3-学习记录
-[科学上网搭建与云服务器部署完整指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97)
+[科学上网搭建与云服务器部署完整指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97)
 
 [EIP‐1559：以太坊 Gas 费机制的重大改进](https://github.com/lgyRain/WEB3-LearningRecord/wiki/EIP%E2%80%901559%EF%BC%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A-Gas-%E8%B4%B9%E6%9C%BA%E5%88%B6%E7%9A%84%E9%87%8D%E5%A4%A7%E6%94%B9%E8%BF%9B)
 
