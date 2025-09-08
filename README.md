@@ -49,7 +49,49 @@
 ---
 [25‐ 🛠️VS Code Open Default Settings`defaultSettings.json` 配置指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/25%E2%80%90-%F0%9F%9B%A0%EF%B8%8FVS-Code-Open-Default-Settings%60defaultSettings.json%60-%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)
 ---
-[26- 科学上网影响Git登录和提交的解决方案](https://github.com/lgyRain/WEB3-LearningRecord/wiki/26%E2%80%90-%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%BD%B1%E5%93%8DGit%E7%99%BB%E5%BD%95%E5%92%8C%E6%8F%90%E4%BA%A4%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+[26‐ 科学上网影响Git登录和提交的解决方案](https://github.com/lgyRain/WEB3-LearningRecord/wiki/26%E2%80%90-%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%BD%B1%E5%93%8DGit%E7%99%BB%E5%BD%95%E5%92%8C%E6%8F%90%E4%BA%A4%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+---
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
