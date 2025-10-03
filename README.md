@@ -4,7 +4,7 @@
 - 国外访问链接：[WEB3知识库](https://rainweb3.github.io/)
 - 国内访问链接：[WEB3知识库](https://github.com/rainweb3/rainweb3.github.io)
 ---
-~~[1‐ 2025年全球主流公链测试网完整开发指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/1%E2%80%90-2025%E5%B9%B4%E5%85%A8%E7%90%83%E4%B8%BB%E6%B5%81%E5%85%AC%E9%93%BE%E6%B5%8B%E8%AF%95%E7%BD%91%E5%AE%8C%E6%95%B4%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)~~（失效-已迁移）
+
 ---
 [2‐ EIP‐1559：以太坊 Gas 费机制的重大改进](https://github.com/lgyRain/WEB3-LearningRecord/wiki/2%E2%80%90-EIP%E2%80%901559%EF%BC%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A-Gas-%E8%B4%B9%E6%9C%BA%E5%88%B6%E7%9A%84%E9%87%8D%E5%A4%A7%E6%94%B9%E8%BF%9B)
 ---
@@ -12,9 +12,6 @@
 ---
 [4‐ Hardhat 3 完整搭建指南（Node.js v24 TypeScript Ethers.js v6）](https://github.com/lgyRain/WEB3-LearningRecord/wiki/4%E2%80%90-Hardhat-3-%E5%AE%8C%E6%95%B4%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97%EF%BC%88Node.js-v24---TypeScript---Ethers.js-v6%EF%BC%89)
 ---
-[5‐ Windows环境‐Hardhat 智能合约开发环境搭建与配置指南（基于 Hardhat v2.26.3 Node.js v20.18.0 精准稳定版）](https://github.com/lgyRain/WEB3-LearningRecord/wiki/5%E2%80%90-Windows%E7%8E%AF%E5%A2%83%E2%80%90Hardhat-%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97%EF%BC%88%E5%9F%BA%E4%BA%8E-Hardhat-v2.26.3---Node.js-v20.18.0-%E7%B2%BE%E5%87%86%E7%A8%B3%E5%AE%9A%E7%89%88%EF%BC%89)
----
-[6‐ HardhaV2.26.3 ‐智能合约环境搭建配置信息](https://github.com/lgyRain/WEB3-LearningRecord/wiki/6%E2%80%90-HardhaV2.26.3-%E2%80%90%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF)
 ---
 [7‐ NVM（nvm‐windows）卸载重装及配置指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/7%E2%80%90-NVM%EF%BC%88nvm%E2%80%90windows%EF%BC%89%E5%8D%B8%E8%BD%BD%E9%87%8D%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)
 ---
