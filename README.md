@@ -8,12 +8,11 @@
 ---
 [2‐ EIP‐1559：以太坊 Gas 费机制的重大改进](https://github.com/lgyRain/WEB3-LearningRecord/wiki/2%E2%80%90-EIP%E2%80%901559%EF%BC%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A-Gas-%E8%B4%B9%E6%9C%BA%E5%88%B6%E7%9A%84%E9%87%8D%E5%A4%A7%E6%94%B9%E8%BF%9B)
 ---
-[3‐ ethers.js v5 与 v6 完全对比指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/3%E2%80%90-ethers.js-v5-%E4%B8%8E-v6-%E5%AE%8C%E5%85%A8%E5%AF%B9%E6%AF%94%E6%8C%87%E5%8D%97)
+
 ---
 [4‐ Hardhat 3 完整搭建指南（Node.js v24 TypeScript Ethers.js v6）](https://github.com/lgyRain/WEB3-LearningRecord/wiki/4%E2%80%90-Hardhat-3-%E5%AE%8C%E6%95%B4%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97%EF%BC%88Node.js-v24---TypeScript---Ethers.js-v6%EF%BC%89)
 ---
 ---
-[7‐ NVM（nvm‐windows）卸载重装及配置指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/7%E2%80%90-NVM%EF%BC%88nvm%E2%80%90windows%EF%BC%89%E5%8D%B8%E8%BD%BD%E9%87%8D%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)
 ---
 [8‐ Solidity 中 Unicode 字符串处理规则详解](https://github.com/lgyRain/WEB3-LearningRecord/wiki/8%E2%80%90-Solidity-%E4%B8%AD-Unicode-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%A4%84%E7%90%86%E8%A7%84%E5%88%99%E8%AF%A6%E8%A7%A3)
 ---
@@ -33,7 +32,6 @@
 ---
 [16‐ 比特币与以太坊的签名机制及 EIP‐1559 详解](https://github.com/lgyRain/WEB3-LearningRecord/wiki/16%E2%80%90-%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%8E%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E7%AD%BE%E5%90%8D%E6%9C%BA%E5%88%B6%E5%8F%8A-EIP%E2%80%901559-%E8%AF%A6%E8%A7%A3)
 ---
-[17‐ 科学上网搭建与云服务器部署完整指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/17%E2%80%90-%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97)
 ---
 [18‐ 🍏 macOS Web3 项目初始化与 Yarn 依赖管理完整指南（2025）](https://github.com/lgyRain/WEB3-LearningRecord/wiki/18%E2%80%90-%F0%9F%8D%8F-macOS-Web3-%E9%A1%B9%E7%9B%AE%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%8E-Yarn-%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%EF%BC%882025%EF%BC%89)
 ---
@@ -51,9 +49,6 @@
 ---
 [25‐ 🛠️VS Code Open Default Settings`defaultSettings.json` 配置指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/25%E2%80%90-%F0%9F%9B%A0%EF%B8%8FVS-Code-Open-Default-Settings%60defaultSettings.json%60-%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97)
 ---
-[26‐ 科学上网影响Git登录和提交的解决方案](https://github.com/lgyRain/WEB3-LearningRecord/wiki/26%E2%80%90-%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%BD%B1%E5%93%8DGit%E7%99%BB%E5%BD%95%E5%92%8C%E6%8F%90%E4%BA%A4%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
----
-
 ---
 
 
