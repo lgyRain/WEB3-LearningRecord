@@ -1,5 +1,10 @@
-# 技术学习记录-分析
-[1‐ 2025年全球主流公链测试网完整开发指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/1%E2%80%90-2025%E5%B9%B4%E5%85%A8%E7%90%83%E4%B8%BB%E6%B5%81%E5%85%AC%E9%93%BE%E6%B5%8B%E8%AF%95%E7%BD%91%E5%AE%8C%E6%95%B4%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
+
+---
+# web3领域技术文档（以下文档将逐步迁移至新地点）
+- 国外访问链接：[WEB3知识库](https://rainweb3.github.io/)
+- 国内访问链接：[WEB3知识库](https://github.com/rainweb3/rainweb3.github.io)
+---
+~~[1‐ 2025年全球主流公链测试网完整开发指南](https://github.com/lgyRain/WEB3-LearningRecord/wiki/1%E2%80%90-2025%E5%B9%B4%E5%85%A8%E7%90%83%E4%B8%BB%E6%B5%81%E5%85%AC%E9%93%BE%E6%B5%8B%E8%AF%95%E7%BD%91%E5%AE%8C%E6%95%B4%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)~~（失效-已迁移）
 ---
 [2‐ EIP‐1559：以太坊 Gas 费机制的重大改进](https://github.com/lgyRain/WEB3-LearningRecord/wiki/2%E2%80%90-EIP%E2%80%901559%EF%BC%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A-Gas-%E8%B4%B9%E6%9C%BA%E5%88%B6%E7%9A%84%E9%87%8D%E5%A4%A7%E6%94%B9%E8%BF%9B)
 ---
